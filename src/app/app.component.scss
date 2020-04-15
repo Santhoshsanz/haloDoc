@@ -1,0 +1,55 @@
+.searchContainer{
+  display: flex;
+  padding: 30px 50px;
+  justify-content: center;
+}
+
+.textClass{
+  width: 100%;
+  max-width: 400px;
+  padding: 3px;
+  height: 30px;
+  font-size: 16px;;
+}
+
+.searchButton{
+margin-left:10px;
+background-color: rgb(65, 4, 4);;
+color:white;
+border-radius:5px;
+font-size: 16px;;
+}
+
+
+.pageButton{
+  padding: 10px;
+  margin: 0 10px;
+  border:1px solid black;
+  border-radius: 5px;
+  cursor: pointer;
+
+}
+
+.tableContainer{
+  display: flex;
+  padding: 30px 50px;
+  justify-content: center;
+}
+
+table{
+  border:1px solid black;
+  border-radius: 5px;
+  tr,td,th{
+    border:1px solid black;
+    text-align:center ;
+    padding: 5px;
+  }
+
+
+}
+
+.pagination{
+  display: flex;
+  padding: 30px 50px;
+  justify-content: center;
+}
